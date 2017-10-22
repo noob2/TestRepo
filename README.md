@@ -3,7 +3,7 @@
 2. Petar Hristov
 3.
 4.
-5.
+5. Georgi Stoyanov
 6.
 7. Nadia Sharlandzhieva
 ## Martin Kuvandzhiev
