@@ -1,7 +1,7 @@
 # Participants:
 1. Viktor Yordanov
 2. Petar Hristov
-3.
+3. Greta Shankova
 4.
 5. Georgi Stoyanov
 6.
