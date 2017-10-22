@@ -4,6 +4,6 @@
 3. Greta Shankova
 4. Delyan Samhat
 5. Georgi Stoyanov
-6.
+6. Plamen Prangov
 7. Nadia Sharlandzhieva
 ## Martin Kuvandzhiev
