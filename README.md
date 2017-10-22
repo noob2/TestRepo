@@ -1,6 +1,6 @@
 # Participants:
 1.
-2.
+2. Petar
 3.
 4.
 5.
